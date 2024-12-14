@@ -1,0 +1,6 @@
+# Ignore the dataset directory containing images
+/static/dataset/
+
+# Ignore the features_and_paths.pkl file
+/features_and_paths.pkl
+/metric_model.pth
